@@ -43,7 +43,7 @@ Example, you want to put earrings to your character:
         ................
 ```
 Note: If youre gonna have an optional part, that will not always be present on all NFTs,
-I Suggest that you create an empy .png with index 0 and call that file for the NFT's that will
+I Suggest that you create an empty .png with index 0 and call that file for the NFT's that will
 not have that optional part, just to make things easier.
 
 
