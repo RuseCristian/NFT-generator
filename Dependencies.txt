@@ -1,0 +1,9 @@
+- [OpenCV2](https://pypi.org/project/opencv-python/)
+pip install opencv-python
+
+- [Numpy](https://numpy.org/install/)
+pip install numpy
+
+- [PIL](https://pillow.readthedocs.io/en/stable/installation.html)
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
