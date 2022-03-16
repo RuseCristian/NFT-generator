@@ -5,8 +5,8 @@
 
 
 A simple passion project done with the role to learn a bit about how images are processed by computers.
-A modular NFT generator application that allows you to create NFT's by diving each accesorry of an NFT into 
-more parts. For example, a character with that has a hat and glasses, can be divided into:
+A modular NFT generator application that allows you to create NFTs by diving each accesorry of an NFT into 
+more parts. For example, a character that has a hat and glasses, can be divided into:
 
 ```
 - background
@@ -18,7 +18,7 @@ more parts. For example, a character with that has a hat and glasses, can be div
 
 
 Because of this modularity, its very easy to simply change the code
-and the structure a bit to create a completely new collection of unique NFTS.
+and the structure a bit to create a completely new collection of unique NFTs.
 
 
 # Dependencies
