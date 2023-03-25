@@ -65,7 +65,11 @@ such that there arent 2 channels with 0 as values.Example:
         red hat (255,0,0) ---> (255,1,0), 
 
 
-
 # Content of this repo:
 - Example code with some predefined parts 
 - Shading Randomizer for helping when creating new parts
+
+# Example of "NFT"s generated
+![14](https://user-images.githubusercontent.com/99805998/227733212-0bdd5c6c-b7f9-4b9d-8ef3-48359877dd4b.png)
+![15](https://user-images.githubusercontent.com/99805998/227733215-7d75e477-e6ce-44bb-9cef-f8492c998ad7.png)
+![18](https://user-images.githubusercontent.com/99805998/227733235-8402a789-f118-455a-a232-b224d52726a3.png)
